@@ -90,9 +90,9 @@ http://xiptv.vip:8080/Rjw1MR09B9/8ze7XrloK2/199
 #EXTINF:-1 tvg-name="Rotana Music"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/f/fd/RotanaMousicaTV.jpg/260px-RotanaMousicaTV.jpg"group-title="Music",ROTANA MUSIC HD
 http://xiptv.vip:8080/Rjw1MR09B9/8ze7XrloK2/197
 #E#EXTINF:-1 tvg-logo="https://i.imgur.com/VNtbK3l.png" group-title="News",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_360p.m3u8?checkedby:iptvcat.com
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nSgfU0.png" group-title="News",Al Hadath
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?checkedby:iptvcat.com
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky-News"tvg-logo="https://i.imgur.com/kF7TvcH.png"group-title="News",Sky News
 http://xiptv.vip:8080/Rjw1MR09B9/8ze7XrloK2/42586
 #EXTINF:-1 tvg-name="Al Jazeera HD"tvg-logo="https://i.imgur.com/PITp6xA.jpg"group-title="News",Al Jazeera HD
